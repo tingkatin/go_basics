@@ -1,0 +1,3 @@
+module count-word
+
+go 1.21.3
